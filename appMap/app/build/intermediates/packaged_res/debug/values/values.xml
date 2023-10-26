@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="api">AIzaSyD5xZTjAjcN23hGD9nJUlrzsEUxe9YOjAU</string>
+    <string name="app_name">MAp</string>
+    <string name="new_location">New Location : Latitude = %1$f, Longitude = %2$f, Altitude = %3$f avec une précision de %4$f mètres </string>
+    <string name="provider_disabled">The provider %s is now disabled</string>
+    <string name="provider_enabled">The provider %s is now enabled</string>
+    <string name="provider_new_status">The provider %1$s has now a new status %2$s</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <style name="Base.Theme.MAp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MAp" parent="Base.Theme.MAp"/>
+</resources>

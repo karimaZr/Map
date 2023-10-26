@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id bn
+id map
+id toolbar
+layout activity_main
+layout activity_maps
+mipmap ic_launcher
+mipmap ic_launcher_round
+string api
+string app_name
+string new_location
+string provider_disabled
+string provider_enabled
+string provider_new_status
+string title_activity_maps
+string title_activity_maps2
+style Base.Theme.MAp
+style Theme.MAp
+xml backup_rules
+xml data_extraction_rules
